@@ -16,3 +16,18 @@ This repository contains my complete Python learning path — from basics to adv
 
 ## 📂 Project Structure
 
+
+
+## to add a new file
+# 1. Check changes
+git status
+
+# 2. Add changes
+git add .
+
+# 3. Commit
+git commit -m "Your message"
+
+# 4. Push
+git push origin main
+
